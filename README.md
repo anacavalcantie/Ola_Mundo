@@ -18,7 +18,7 @@ Primeiro Repositório Versionario Sobre mim:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊  Minhas Estatísticas do GitHub
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacavalcantie&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacavalcantie&layout=compact&theme=radical)  
 
